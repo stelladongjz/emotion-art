@@ -1,2 +1,2 @@
 # emotion-art
-emotional semantic space analysis on paintings using LLM (work in progress)
+Analyze emotional semantic space on paintings using LLM and human responses (work in progress)
